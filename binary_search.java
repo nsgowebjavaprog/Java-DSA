@@ -9,6 +9,7 @@ public class binary_search {
            // 3 conditions
            if(numbers[mid] == key){
                return  mid;
+            
            }
            if (numbers[mid]<key)
            {
