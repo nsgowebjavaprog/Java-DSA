@@ -1,4 +1,4 @@
-// 11. Max SubArray Using KIDANE'S ALGOTITM
+ // 11. Max SubArray Using KIDANE'S ALGOTITM
 
 public class max_sub_Array_using_KIDANES_ALGORITM.java {
    public static void KADANES_max_sub_array_sum(int numbers[]){
