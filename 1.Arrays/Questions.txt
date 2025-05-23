@@ -1,0 +1,44 @@
+### ✅ **Top 30 DSA Array Questions**
+
+#### 🔹 **Easy (10 Problems)**
+
+1. **Second Largest Element**
+2. **Third Largest Element**
+3. **Max Consecutive Ones**
+4. **Move All Zeroes To End**
+5. **Rotate Array (by K positions)**
+6. **Reverse Array in Groups**
+7. **Remove Duplicates from Sorted Array**
+8. **Stock Buy and Sell – One Transaction**
+9. **Wave Array**
+10. **Alternate Positive Negative**
+
+---
+
+#### 🔸 **Medium (12 Problems)**
+
+11. **Next Permutation**
+12. **Majority Element (Boyer-Moore Voting Algorithm)**
+13. **Majority Element II**
+14. **Maximum Subarray Sum (Kadane’s Algorithm)**
+15. **Maximum Product Subarray**
+16. **Product of Array Except Self**
+17. **Subarrays with Product Less Than K**
+18. **Rearrange Array Elements by Sign (Maintaining Order)**
+19. **Intersection of Interval Lists**
+20. **Meeting Scheduler for Two Persons**
+21. **Longest Mountain Subarray**
+22. **Minimum Swaps To Group All Ones**
+
+---
+
+#### 🔴 **Hard (8 Problems)**
+
+23. **Trapping Rain Water**
+24. **Maximum Circular Subarray Sum**
+25. **Smallest Missing Positive Number**
+26. **Jump Game**
+27. **Smallest Range Having Elements From K Lists**
+28. **Count Subarrays with K Distinct Elements**
+29. **Next Smallest Palindrome**
+30. **Maximum Sum Among All Rotations**
