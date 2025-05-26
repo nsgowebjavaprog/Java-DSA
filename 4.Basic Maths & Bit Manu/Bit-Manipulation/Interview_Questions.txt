@@ -1,0 +1,22 @@
+| #  | **Problem Name**                                                 | **Difficulty** | **Concepts Tested**         |
+| -- | ---------------------------------------------------------------- | -------------- | --------------------------- |
+| 1  | **Check if a number is power of 2**                              | Easy           | AND, powers of two          |
+| 2  | **Count number of set bits (1s)**                                | Easy           | Brian Kernighan’s Algorithm |
+| 3  | **Find the only non-repeating element in an array**              | Easy           | XOR                         |
+| 4  | **Find the two non-repeating elements in an array**              | Medium         | XOR + Bit partition         |
+| 5  | **Check if ith bit is set**                                      | Easy           | Masking                     |
+| 6  | **Turn off the rightmost set bit**                               | Easy           | `x & (x - 1)`               |
+| 7  | **Find the rightmost set bit**                                   | Easy           | `x & -x`                    |
+| 8  | **Add 1 to a number without using '+'**                          | Medium         | Bitwise operators only      |
+| 9  | **Swap two numbers without temp**                                | Easy           | XOR swap                    |
+| 10 | **Subset generation using bitmasking**                           | Medium         | All combinations/subsets    |
+| 11 | **Gray Code generation**                                         | Medium         | `n ^ (n >> 1)`              |
+| 12 | **Divide two integers without using `/`, `*`, `%`**              | Hard           | Bitwise shifting            |
+| 13 | **Find XOR of numbers from 1 to n**                              | Easy           | Pattern-based               |
+| 14 | **Find XOR of all elements in range \[L, R]**                    | Medium         | Prefix XOR pattern          |
+| 15 | **Single number (appears once, others thrice)** – LeetCode 137   | Medium         | Bit counting                |
+| 16 | **Single number II (appears once, others twice)** – LeetCode 260 | Medium         | XOR and bit math            |
+| 17 | **Number of bits to convert A to B**                             | Medium         | XOR + count set bits        |
+| 18 | **Binary representation of a number**                            | Easy           | Bit shifting                |
+| 19 | **Reverse bits of a 32-bit integer**                             | Medium         | Shifting                    |
+| 20 | **Detect if numbers are same sign without using conditions**     | Easy           | XOR + sign bit              |
